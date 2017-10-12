@@ -16,7 +16,7 @@ After the lane occupancy is determined I've planned for two scenarios.
 2- if the car's lane is busy and there is a free lane the car changes lanes.
 
 I have not used FSM or cost functions in solving this part of path planning because of lack of time but I'm planning to do it after I finish the final project. 
-https://youtu.be/7AMou8C_T80
+
 
 ### Results
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/7AMou8C_T80/0.jpg)](http://www.youtube.com/watch?v=7AMou8C_T80 "Simulation")
